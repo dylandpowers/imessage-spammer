@@ -13,8 +13,6 @@ import java.lang.ProcessBuilder.Redirect;
  */
 public class AppleScriptExecutor implements ScriptExecutor {
 
-    private static final String APPLESCRIPT_ENGINE_NAME = "AppleScript";
-
     private static final String SCRIPT_TEMPLATE = "repeat %d times\n" +
         "tell application \"Messages\"\n" +
         "set targetService to 1st service whose service type = iMessage\n" +
