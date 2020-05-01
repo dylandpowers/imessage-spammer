@@ -1,4 +1,4 @@
-package com.dylanpowers.controller;
+package com.dylanpowers.imessagespammer.controller;
 
 /**
  * Main controller interface for the application.

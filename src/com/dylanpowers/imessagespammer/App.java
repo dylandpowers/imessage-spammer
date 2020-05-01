@@ -1,11 +1,11 @@
-package com.dylanpowers;
+package com.dylanpowers.imessagespammer;
 
-import com.dylanpowers.controller.Controller;
-import com.dylanpowers.controller.ControllerImpl;
-import com.dylanpowers.executors.AppleScriptExecutor;
-import com.dylanpowers.executors.ScriptExecutor;
-import com.dylanpowers.view.Display;
-import com.dylanpowers.view.JavaFXDisplay;
+import com.dylanpowers.imessagespammer.controller.Controller;
+import com.dylanpowers.imessagespammer.controller.ControllerImpl;
+import com.dylanpowers.imessagespammer.executors.AppleScriptExecutor;
+import com.dylanpowers.imessagespammer.executors.ScriptExecutor;
+import com.dylanpowers.imessagespammer.view.Display;
+import com.dylanpowers.imessagespammer.view.JavaFXDisplay;
 import javafx.application.Application;
 import javafx.stage.Stage;
 

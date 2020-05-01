@@ -1,6 +1,6 @@
-package com.dylanpowers.executors;
+package com.dylanpowers.imessagespammer.executors;
 
-import com.dylanpowers.model.ExecuteScriptRequest;
+import com.dylanpowers.imessagespammer.model.ExecuteScriptRequest;
 
 /**
  * Interface for executing the spamming script.

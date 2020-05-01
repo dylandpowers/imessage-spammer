@@ -1,4 +1,4 @@
-package com.dylanpowers.model;
+package com.dylanpowers.imessagespammer.model;
 
 /**
  * Model object for a request to execute a script.

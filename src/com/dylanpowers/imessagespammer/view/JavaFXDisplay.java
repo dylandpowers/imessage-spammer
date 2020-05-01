@@ -1,8 +1,8 @@
-package com.dylanpowers.view;
+package com.dylanpowers.imessagespammer.view;
 
-import com.dylanpowers.model.FieldLabels;
-import com.dylanpowers.view.containers.InputContainer;
-import com.dylanpowers.view.containers.JavaFXInputContainer;
+import com.dylanpowers.imessagespammer.model.FieldLabels;
+import com.dylanpowers.imessagespammer.view.containers.InputContainer;
+import com.dylanpowers.imessagespammer.view.containers.JavaFXInputContainer;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;

@@ -1,4 +1,4 @@
-package com.dylanpowers.model;
+package com.dylanpowers.imessagespammer.model;
 
 /**
  * Static variables for all field labels for the input boxes.

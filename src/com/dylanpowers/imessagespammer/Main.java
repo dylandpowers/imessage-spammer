@@ -1,4 +1,4 @@
-package com.dylanpowers;
+package com.dylanpowers.imessagespammer;
 
 /**
  * Main class used for launching the application.

@@ -1,11 +1,11 @@
-package com.dylanpowers.controller;
+package com.dylanpowers.imessagespammer.controller;
 
-import com.dylanpowers.exceptions.InvalidInputException;
-import com.dylanpowers.exceptions.ScriptExecutionException;
-import com.dylanpowers.executors.ScriptExecutor;
-import com.dylanpowers.model.ExecuteScriptRequest;
-import com.dylanpowers.util.RequestBuilders;
-import com.dylanpowers.view.Display;
+import com.dylanpowers.imessagespammer.exceptions.InvalidInputException;
+import com.dylanpowers.imessagespammer.exceptions.ScriptExecutionException;
+import com.dylanpowers.imessagespammer.executors.ScriptExecutor;
+import com.dylanpowers.imessagespammer.model.ExecuteScriptRequest;
+import com.dylanpowers.imessagespammer.util.RequestBuilders;
+import com.dylanpowers.imessagespammer.view.Display;
 
 /**
  * Implementation of {@link Controller}

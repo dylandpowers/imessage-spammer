@@ -1,4 +1,4 @@
-package com.dylanpowers.exceptions;
+package com.dylanpowers.imessagespammer.exceptions;
 
 import java.util.Map;
 

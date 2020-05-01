@@ -1,4 +1,4 @@
-package com.dylanpowers.util;
+package com.dylanpowers.imessagespammer.util;
 
 import java.util.regex.Pattern;
 

@@ -10,8 +10,7 @@ java_library(
 
 java_binary(
     name = "app",
-    main_class = "com.dylanpowers.Main",
-    javacopts = ["--target 1.7"],
+    main_class = "com.dylanpowers.imessagespammer.Main",
     runtime_deps = [":app_lib"],
 )
  

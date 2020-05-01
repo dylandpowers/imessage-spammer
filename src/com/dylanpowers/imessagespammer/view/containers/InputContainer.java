@@ -1,4 +1,4 @@
-package com.dylanpowers.view.containers;
+package com.dylanpowers.imessagespammer.view.containers;
 
 /**
  * Interface for defining an input container, which should include a label and a text field.

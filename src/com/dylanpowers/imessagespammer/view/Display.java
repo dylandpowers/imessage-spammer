@@ -1,4 +1,4 @@
-package com.dylanpowers.view;
+package com.dylanpowers.imessagespammer.view;
 
 /**
  * Interface used for displaying the UI.

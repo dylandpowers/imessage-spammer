@@ -1,4 +1,4 @@
-package com.dylanpowers.exceptions;
+package com.dylanpowers.imessagespammer.exceptions;
 
 /**
  * Exception thrown when there is an error executing the script.

@@ -1,8 +1,8 @@
-package com.dylanpowers.util;
+package com.dylanpowers.imessagespammer.util;
 
-import com.dylanpowers.exceptions.InvalidInputException;
-import com.dylanpowers.exceptions.InvalidInputException.InputType;
-import com.dylanpowers.model.ExecuteScriptRequest;
+import com.dylanpowers.imessagespammer.exceptions.InvalidInputException;
+import com.dylanpowers.imessagespammer.exceptions.InvalidInputException.InputType;
+import com.dylanpowers.imessagespammer.model.ExecuteScriptRequest;
 
 /**
  * Utility class for building requests.

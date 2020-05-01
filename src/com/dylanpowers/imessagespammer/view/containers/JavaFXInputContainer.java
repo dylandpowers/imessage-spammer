@@ -1,4 +1,4 @@
-package com.dylanpowers.view.containers;
+package com.dylanpowers.imessagespammer.view.containers;
 
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;

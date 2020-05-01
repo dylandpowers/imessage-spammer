@@ -1,7 +1,7 @@
-package com.dylanpowers.executors;
+package com.dylanpowers.imessagespammer.executors;
 
-import com.dylanpowers.exceptions.ScriptExecutionException;
-import com.dylanpowers.model.ExecuteScriptRequest;
+import com.dylanpowers.imessagespammer.exceptions.ScriptExecutionException;
+import com.dylanpowers.imessagespammer.model.ExecuteScriptRequest;
 
 import java.io.IOException;
 import java.lang.ProcessBuilder.Redirect;
