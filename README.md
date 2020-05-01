@@ -8,3 +8,4 @@ start.
 
 ### Future improvements
 * Allow sending to iMessage accounts rather than just phone numbers
+* Report error if input number is not associated with iMessage
